@@ -1,6 +1,7 @@
 # gitCommand
 this is a gitComand test
 
-lixiyan add
+lixiyan add[dev]
 
 github fix
+dev
